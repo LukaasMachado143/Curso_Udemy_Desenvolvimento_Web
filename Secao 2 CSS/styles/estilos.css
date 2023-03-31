@@ -1,0 +1,15 @@
+body{
+    background-image: url('https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2022/04/29164423/unnamed-25.png');
+    background-attachment: fixed;
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+}
+.formatacao{
+    /*
+    px -> tamanho fixo
+    % -> tamanho relativo
+    em -> tamanho relativo em relação ao container pai
+    */
+    color: red;
+    font-size: 1em;
+}
